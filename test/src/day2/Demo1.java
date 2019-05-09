@@ -17,7 +17,10 @@ public class Demo1 {
 		
 		//System.out.println(c + 1);�����
 		
-
+		
+	}
+	
+	void aaa(){
 	}
 	
 	void bbb(){
