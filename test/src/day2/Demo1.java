@@ -32,8 +32,7 @@ public class Demo1 {
 
 	}
 	
-	void bbb(){
-	}
+
 	
 	
 }
