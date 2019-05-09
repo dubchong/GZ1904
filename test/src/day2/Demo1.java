@@ -15,11 +15,14 @@ public class Demo1 {
 		
 		System.out.println(b + 1);
 		
-		//System.out.println(c + 1);�����
+		//System.out.println(c + 1);锟斤拷锟斤拷锟�
 		
-
+		
+		System.out.println("我先提交");
 	}
 	
 	void bbb(){
 	}
+	
+	
 }
